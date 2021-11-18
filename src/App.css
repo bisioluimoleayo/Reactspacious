@@ -112,7 +112,15 @@
 .char-right{
   border-radius: 30px;
 }
-
+@media screen and (max-width: 770px) {
+  .char-right{
+    position:fixed;
+    top:5rem;
+    right:1rem;
+    padding:10px;
+    border-radius: 30px;
+  }
+}
 
 @media only screen and (max-width: 438px){
 	.char-img {
