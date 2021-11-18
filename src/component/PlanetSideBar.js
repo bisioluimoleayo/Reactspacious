@@ -1,4 +1,4 @@
-
+import CloseButton from 'react-bootstrap/CloseButton'
 
 const PlanetSideBar = ({name, description, characters, population, setShow}) => {
 
@@ -8,8 +8,8 @@ const PlanetSideBar = ({name, description, characters, population, setShow}) => 
 
     return ( 
         <>
-            <div  className ="sidebar" data-spy="scroll">
-            <button onClick={handleClick}>close</button>
+            <div  className ="sidebar right " data-spy="scroll"> 
+            <div className="d-flex justify-content-end"><CloseButton  onClick={handleClick}/></div> 
             <h2>{name}</h2>
             <p>{description}</p>
             <div>

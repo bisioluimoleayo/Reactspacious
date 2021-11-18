@@ -38,12 +38,12 @@ const Planets = () => {
                     })
                 }
 
-
+              <CreatePlanet/>
             </div>
             {
                    show && <PlanetSideBar name={value.name} characters={value.characters} population={value.population} description={value.description} setShow={setShow}/>
                 }
-              <CreatePlanet/>
+              
 
 </div>
      );

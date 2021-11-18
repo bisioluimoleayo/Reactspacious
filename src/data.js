@@ -426,20 +426,20 @@ export const planets = [
     },
     {
         "id" : 2,
-        "name" : "Planet Alpha",
+        "name" : "Planet Beta",
         "image" : planet8,
         "prop" : "Pop: 235",
         "population" : "235",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Beta is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
         "id" : 3,
-        "name" : "Planet Alpha",
+        "name" : "Planet Gamma",
         "image" : planet7,
         "prop" : "Pop: 237",
         "population" : "237",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Gamma is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
@@ -453,20 +453,20 @@ export const planets = [
     },
     {
         "id" : 5,
-        "name" : "Planet Alpha",
+        "name" : "Planet Beta",
         "image" : planet6,
         "prop" : "Pop: 275",
         "population" : "275",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Beta is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
         "id" : 6,
-        "name" : "Planet Alpha",
+        "name" : "Planet Gamma",
         "image" : planet5,
         "prop" : "Pop: 240",
         "population" : "240",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Gamma is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
@@ -480,20 +480,20 @@ export const planets = [
     },
     {
         "id" : 8,
-        "name" : "Planet Alpha",
+        "name" : "Planet Beta",
         "image" : planet2,
         "prop" : "Pop: 235",
         "population" : "235",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Beta is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
         "id" : 9,
-        "name" : "Planet Alpha",
+        "name" : "Planet Gamma",
         "image" : planet2,
         "prop" : "Pop: 211",
         "population" : "211",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Gamma is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
@@ -508,20 +508,20 @@ export const planets = [
     
     {
         "id" : 11,
-        "name" : "Planet Alpha",
+        "name" : "Planet Beta",
         "image" : planet3,
         "prop" : "Pop: 235",
         "population" : "235",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Beta is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
     {
         "id" : 12,
-        "name" : "Planet Alpha",
+        "name" : "Planet Gamma",
         "image" : planet5,
         "prop" : "Pop: 248",
         "population" : "248",
-        "description" : "Planet Alpha is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
+        "description" : "Planet Gamma is the place to be if you like everything planets, i know it is a bit meta, come see by yourself",
         "character" : characters
     },
 

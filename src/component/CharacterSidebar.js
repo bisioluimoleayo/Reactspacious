@@ -1,4 +1,5 @@
 import React from 'react'
+import CloseButton from 'react-bootstrap/CloseButton'
 
 
 function CharacterSidebar({name, friends, description, setShow}) {
@@ -8,8 +9,8 @@ function CharacterSidebar({name, friends, description, setShow}) {
     }
 
     return (
-        <div  className ="sidebar col-4 " data-spy="scroll">
-            <button onClick={handleClick}>close</button>
+            <div  className ="sidebar char-right col-4" data-spy="scroll"> 
+            <div className="d-flex justify-content-end"><CloseButton  onClick={handleClick}/></div> 
             <h2>{name}</h2>
             <p>{description}</p>
             <div>

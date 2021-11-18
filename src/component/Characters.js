@@ -40,13 +40,14 @@ const Characters = () => {
                     })
 
                 }
+              <CreateCharacter/>
               </div>
 
                    {     
                    show && <CharacterSidebar name={value.name} friends={value.friends} description={value.description} setShow={setShow}/>
                   
               }
-              <CreateCharacter/>
+              
            </div>
      );
 }
