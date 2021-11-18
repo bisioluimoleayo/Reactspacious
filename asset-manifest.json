@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/reactspacious/static/css/main.9ce078b3.chunk.css",
+    "main.js": "/reactspacious/static/js/main.ab58d2cc.chunk.js",
+    "main.js.map": "/reactspacious/static/js/main.ab58d2cc.chunk.js.map",
+    "runtime-main.js": "/reactspacious/static/js/runtime-main.3ac6e91e.js",
+    "runtime-main.js.map": "/reactspacious/static/js/runtime-main.3ac6e91e.js.map",
+    "static/css/2.4659568d.chunk.css": "/reactspacious/static/css/2.4659568d.chunk.css",
+    "static/js/2.89a4d4af.chunk.js": "/reactspacious/static/js/2.89a4d4af.chunk.js",
+    "static/js/2.89a4d4af.chunk.js.map": "/reactspacious/static/js/2.89a4d4af.chunk.js.map",
+    "index.html": "/reactspacious/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/reactspacious/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.9ce078b3.chunk.css.map": "/reactspacious/static/css/main.9ce078b3.chunk.css.map",
+    "static/js/2.89a4d4af.chunk.js.LICENSE.txt": "/reactspacious/static/js/2.89a4d4af.chunk.js.LICENSE.txt",
+    "static/media/character-10.f6fdbe59.png": "/reactspacious/static/media/character-10.f6fdbe59.png",
+    "static/media/character-12.93868536.png": "/reactspacious/static/media/character-12.93868536.png",
+    "static/media/character-2.6859fefd.png": "/reactspacious/static/media/character-2.6859fefd.png",
+    "static/media/character-4.1fd020f5.png": "/reactspacious/static/media/character-4.1fd020f5.png",
+    "static/media/character-5.2316ee86.png": "/reactspacious/static/media/character-5.2316ee86.png",
+    "static/media/character-6.839b5ded.png": "/reactspacious/static/media/character-6.839b5ded.png",
+    "static/media/character-7.fadfa678.png": "/reactspacious/static/media/character-7.fadfa678.png",
+    "static/media/character-8.341f1453.png": "/reactspacious/static/media/character-8.341f1453.png",
+    "static/media/planet-1.384a5457.svg": "/reactspacious/static/media/planet-1.384a5457.svg",
+    "static/media/planet-2.83ed008c.svg": "/reactspacious/static/media/planet-2.83ed008c.svg",
+    "static/media/planet-3.1e7e89f2.svg": "/reactspacious/static/media/planet-3.1e7e89f2.svg",
+    "static/media/planet-4.dcf17b9a.svg": "/reactspacious/static/media/planet-4.dcf17b9a.svg",
+    "static/media/planet-5.92952d74.svg": "/reactspacious/static/media/planet-5.92952d74.svg",
+    "static/media/planet-6.66e9910c.svg": "/reactspacious/static/media/planet-6.66e9910c.svg",
+    "static/media/planet-7.2f74e7f8.svg": "/reactspacious/static/media/planet-7.2f74e7f8.svg",
+    "static/media/planet-8.48c0a610.svg": "/reactspacious/static/media/planet-8.48c0a610.svg",
+    "static/media/planet-9.c5b1f749.svg": "/reactspacious/static/media/planet-9.c5b1f749.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac6e91e.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.89a4d4af.chunk.js",
+    "static/css/main.9ce078b3.chunk.css",
+    "static/js/main.ab58d2cc.chunk.js"
+  ]
+}
