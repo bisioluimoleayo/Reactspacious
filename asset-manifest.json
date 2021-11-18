@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactspacious/static/css/main.c8a68b52.chunk.css",
+    "main.css": "/reactspacious/static/css/main.7d7bcb8f.chunk.css",
     "main.js": "/reactspacious/static/js/main.6f5e3621.chunk.js",
     "main.js.map": "/reactspacious/static/js/main.6f5e3621.chunk.js.map",
     "runtime-main.js": "/reactspacious/static/js/runtime-main.3ac6e91e.js",
@@ -10,7 +10,7 @@
     "static/js/2.88479e03.chunk.js.map": "/reactspacious/static/js/2.88479e03.chunk.js.map",
     "index.html": "/reactspacious/index.html",
     "static/css/2.4659568d.chunk.css.map": "/reactspacious/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.c8a68b52.chunk.css.map": "/reactspacious/static/css/main.c8a68b52.chunk.css.map",
+    "static/css/main.7d7bcb8f.chunk.css.map": "/reactspacious/static/css/main.7d7bcb8f.chunk.css.map",
     "static/js/2.88479e03.chunk.js.LICENSE.txt": "/reactspacious/static/js/2.88479e03.chunk.js.LICENSE.txt",
     "static/media/character-10.f6fdbe59.png": "/reactspacious/static/media/character-10.f6fdbe59.png",
     "static/media/character-12.93868536.png": "/reactspacious/static/media/character-12.93868536.png",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.3ac6e91e.js",
     "static/css/2.4659568d.chunk.css",
     "static/js/2.88479e03.chunk.js",
-    "static/css/main.c8a68b52.chunk.css",
+    "static/css/main.7d7bcb8f.chunk.css",
     "static/js/main.6f5e3621.chunk.js"
   ]
 }
